@@ -1,0 +1,2 @@
+source,destination,max_intermediate_stops,available_coupons,flights_taken,coupons_used,total_cost
+1,5,1,1,2,1,250
